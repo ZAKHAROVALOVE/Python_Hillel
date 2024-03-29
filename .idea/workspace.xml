@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="43afe769-72e0-4f44-a8f4-a38f4c3d80f9" name="Changes" comment="" />
+    <list default="true" id="43afe769-72e0-4f44-a8f4-a38f4c3d80f9" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/main1.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2eMmd67KDu2L6KTGjsO4sgAtrqh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-
-  }
-}]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
+ 
       <set>
         <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
@@ -39,19 +35,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711722907466</updated>
     </task>
-    <task id="LOCAL-00001" summary="Added main.py file">
-      <option name="closed" value="true" />
-      <created>1711725069658</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1711725069658</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-    <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added main.py file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added main.py file" />
+
   </component>
 </project>
